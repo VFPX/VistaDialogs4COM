@@ -17,3 +17,5 @@ A few additional notes on VistaDialogs4COM:
 * VistaLibrary4COM requires Windows Vista. The API used are not available on earlier versions of Windows. The VFP Sample folder contains images that show the different dialogs and how they differ from the corresponding dialogs in earlier versions.
 
 * Register.BAT registers VistaDialogs4COM. Edit the paths in Register.BAT as necessary. Also note that you must run Register.BAT as administrator (right-click the file and choose Run as Administrator) since registering COM components requires administrative privileges.
+
+VistaDialogs4COM is part of [Sedna](https://github.com/VFPX/Sedna), a collection of libraries, samples and add-ons to Visual FoxPro 9.0 SP2.
